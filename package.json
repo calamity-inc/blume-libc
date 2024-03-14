@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "asc libc.ts --target libc"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.27.25"
+  }
+}
